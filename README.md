@@ -2,8 +2,8 @@
 These are some small projects I made using C# and .NET Framework
 ## Project:
 
--[Car Insurance](#car insurance)
--[NFL Stats](#nfl stats)
+(#Car Insurance)
+(#NFL Stats)
 
 ## Car Insurance
 
